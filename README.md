@@ -1,4 +1,6 @@
-Jupyter Notebook for UKDW 2019 Class
+# eBdesk/Indonesia Indicator Goes To campuss
+
+This repo contains Jupyter Notebook for all classes/seminars that I gave.
 
 This project was created for educational purposes only.
 

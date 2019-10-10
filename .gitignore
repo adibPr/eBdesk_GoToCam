@@ -1,2 +1,6 @@
 .ipynb_checkpoints
+__pycache__/
 Classification/data/aclImdb
+data/
+*.ipyc
+*.pyc
